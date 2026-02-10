@@ -1,0 +1,64 @@
+-- /!\ TEMPORARY LLM SPANISH TRANSLATION /!\
+-- FEEL FREE TO EDIT AND MAKE A PR IF YOU NOTICE ANY ISSUES
+
+if GetLocale() == "esES" then
+    ALAHTHALAS = "Alah'Thalas";
+    ALTERACMOUNTAINS = "Montañas de Alterac";
+    ARATHIHIGHLANDS = "Tierras Altas de Arathi";
+    ASHENVALE = "Valle de Tuercespina"; -- Correction: Actually Ashenvale is "Vallefresno"
+    ASHENVALE = "Vallefresno";
+    AZSHARA = "Azshara";
+    BADLANDS = "Tierras Inhóspitas";
+    BALOR = "Balor";
+    BLACKSTONEISLAND = "Isla Roca Negra";
+    BLASTEDLANDS = "Las Tierras Devastadas";
+    BURNINGSTEPPES = "Las Estepas Ardientes";
+    DARKSHORE = "Costa Oscura";
+    DARNASSUS = "Darnassus";
+    DEADWINDPASS = "Paso de la Muerte";
+    DESOLACE = "Desolace";
+    DUNMOROGH = "Dun Morogh";
+    DUROTAR = "Durotar";
+    DUSKWOOD = "Bosque del Ocaso";
+    DUSTWALLOWMARSH = "Marjal Revolcafango";
+    EASTERNPLAGUELANDS = "Tierras de la Peste del Este";
+    ELWYNNFOREST = "Bosque de Elwynn";
+    FELWOOD = "Frondavil";
+    FERALAS = "Feralas";
+    GILLIJIMSISLE = "Isla de Gillijim";
+    GILNEAS = "Gilneas";
+    GRIMREACHES = "Confines Lúgubres";
+    HILLSBRADFOOTHILLS = "Laderas de Trabalomas";
+    HYJAL = "Hyjal";
+    IRONFORGE = "Forjaz";
+    LAPIDISISLE = "Isla Lapidis";
+    LOCHMODAN = "Loch Modan";
+    MOONGLADE = "Claro de la Luna";
+    MULGORE = "Mulgore";
+    NORTHWIND = "Viento del Norte";
+    ORGRIMMAR = "Orgrimmar";
+    REDRIDGEMOUNTAINS = "Montañas Crestagrana";
+    SCARLETENCLAVE = "Enclave Escarlata";
+    SEARINGGORGE = "La Garganta de Fuego";
+    SILITHUS = "Silithus";
+    SILVERPINEFOREST = "Bosque de Argénteos";
+    STONETALONMOUNTAINS = "Sierra Espolón";
+    STORMWINDCITY = "Ventormenta";
+    STRANGLETHORNVALE = "Vega de Tuercespina";
+    SWAMPOFSORROWS = "Pantano de las Penas";
+    TANARIS = "Tanaris";
+    TELABIM = "Tel'Abim";
+    TELDRASSIL = "Teldrassil";
+    THALASSIANHIGHLANDS = "Tierras Altas Thalassianas";
+    THEBARRENS = "Los Baldíos";
+    THEHINTERLANDS = "Tierras del Interior";
+    THOUSANDNEEDLES = "Las Mil Agujas";
+    THUNDERBLUFF = "Cima del Trueno";
+    TIRISFALGLADES = "Claros de Tirisfal";
+    UNDERCITY = "Entrañas";
+    UNGOROCRATER = "Cráter de Un'Goro";
+    WESTERNPLAGUELANDS = "Tierras de la Peste del Oeste";
+    WESTFALL = "Páramos de Poniente";
+    WETLANDS = "Los Humedales";
+    WINTERSPRING = "Cuna del Invierno";
+end

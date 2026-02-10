@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: Zones Level
+## Version: 1.0
+## Author: Walter Bennet
+## Notes: A lightweight Turtle WoW addon that displays the mouse hovered zone's level under its title on the world map.
+## URL: https://github.com/Arthur-Helias/ZonesLevel
+Locale\ZonesLevel-deDE.lua
+Locale\ZonesLevel-enUS.lua
+Locale\ZonesLevel-esES.lua
+Locale\ZonesLevel-frFR.lua
+Locale\ZonesLevel-ptBR.lua
+Locale\ZonesLevel-ruRU.lua
+Locale\ZonesLevel-zhCN.lua
+ZonesLevel.lua
+ZonesLevel.xml

@@ -1,0 +1,63 @@
+-- /!\ TEMPORARY LLM FRENCH TRANSLATION /!\
+-- FEEL FREE TO EDIT AND MAKE A PR IF YOU NOTICE ANY ISSUES
+
+if GetLocale() == "frFR" then
+    ALAHTHALAS = "Alah'Thalas";
+    ALTERACMOUNTAINS = "Montagnes d'Alterac";
+    ARATHIHIGHLANDS = "Hautes-terres d'Arathi";
+    ASHENVALE = "Orneval";
+    AZSHARA = "Azshara";
+    BADLANDS = "Terres ingrates";
+    BALOR = "Balor";
+    BLACKSTONEISLAND = "Île de Rochenoire";
+    BLASTEDLANDS = "Terres foudroyées";
+    BURNINGSTEPPES = "Steppes ardentes";
+    DARKSHORE = "Sombrivage";
+    DARNASSUS = "Darnassus";
+    DEADWINDPASS = "Défilé de Deuillevent";
+    DESOLACE = "Désolace";
+    DUNMOROGH = "Dun Morogh";
+    DUROTAR = "Durotar";
+    DUSKWOOD = "Bois de la Pénombre";
+    DUSTWALLOWMARSH = "Marécage d'Âprefangue";
+    EASTERNPLAGUELANDS = "Maleterres de l'est";
+    ELWYNNFOREST = "Forêt d'Elwynn";
+    FELWOOD = "Gangrebois";
+    FERALAS = "Feralas";
+    GILLIJIMSISLE = "Île de Gillijim";
+    GILNEAS = "Gilneas";
+    GRIMREACHES = "Étendues Sinistres";
+    HILLSBRADFOOTHILLS = "Contreforts de Hautebrande";
+    HYJAL = "Hyjal";
+    IRONFORGE = "Forgefer";
+    LAPIDISISLE = "Île de Lapidis";
+    LOCHMODAN = "Loch Modan";
+    MOONGLADE = "Reflet-de-Lune";
+    MULGORE = "Mulgore";
+    NORTHWIND = "Vent du Nord";
+    ORGRIMMAR = "Orgrimmar";
+    REDRIDGEMOUNTAINS = "Les Carmines";
+    SCARLETENCLAVE = "Enclave Écarlate";
+    SEARINGGORGE = "Gorge des Vents brûlants";
+    SILITHUS = "Silithus";
+    SILVERPINEFOREST = "Forêt des Pins-argentés";
+    STONETALONMOUNTAINS = "Serres-Rocheuses";
+    STORMWINDCITY = "Hurlevent";
+    STRANGLETHORNVALE = "Vallée de Strangleronce";
+    SWAMPOFSORROWS = "Marais des Chagrins";
+    TANARIS = "Tanaris";
+    TELABIM = "Tel'Abim";
+    TELDRASSIL = "Teldrassil";
+    THALASSIANHIGHLANDS = "Hautes-terres Thalassiennes";
+    THEBARRENS = "Les Tarides";
+    THEHINTERLANDS = "Les Hinterlands";
+    THOUSANDNEEDLES = "Mille pointes";
+    THUNDERBLUFF = "Les Pitons-du-Tonnerre";
+    TIRISFALGLADES = "Clairières de Tirisfal";
+    UNDERCITY = "Fossoyeuse";
+    UNGOROCRATER = "Cratère d'Un'Goro";
+    WESTERNPLAGUELANDS = "Maleterres de l'ouest";
+    WESTFALL = "Marche de l'Ouest";
+    WETLANDS = "Les Paluns";
+    WINTERSPRING = "Berceau-de-l'Hiver";
+end

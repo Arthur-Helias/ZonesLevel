@@ -1,0 +1,63 @@
+-- /!\ TEMPORARY LLM PORTUGUESE TRANSLATION /!\
+-- FEEL FREE TO EDIT AND MAKE A PR IF YOU NOTICE ANY ISSUES
+
+if GetLocale() == "ptBR" then
+    ALAHTHALAS = "Alah'Thalas";
+    ALTERACMOUNTAINS = "Montanhas de Alterac";
+    ARATHIHIGHLANDS = "Planalto Arathi";
+    ASHENVALE = "Vale Gris";
+    AZSHARA = "Azshara";
+    BADLANDS = "Ermos";
+    BALOR = "Balor";
+    BLACKSTONEISLAND = "Ilha Pedra Negra";
+    BLASTEDLANDS = "Barreira do Inferno";
+    BURNINGSTEPPES = "Estepes Ardentes";
+    DARKSHORE = "Costa Negra";
+    DARNASSUS = "Darnassus";
+    DEADWINDPASS = "Trilha do Vento Morto";
+    DESOLACE = "Desolação";
+    DUNMOROGH = "Dun Morogh";
+    DUROTAR = "Durotar";
+    DUSKWOOD = "Floresta do Crepúsculo";
+    DUSTWALLOWMARSH = "Pântano Vadeoso";
+    EASTERNPLAGUELANDS = "Terras Pestilentas Orientais";
+    ELWYNNFOREST = "Floresta de Elwynn";
+    FELWOOD = "Selva de Vilarraiz";
+    FERALAS = "Feralas";
+    GILLIJIMSISLE = "Ilha de Gillijim";
+    GILNEAS = "Gilneas";
+    GRIMREACHES = "Alcances Sombrios";
+    HILLSBRADFOOTHILLS = "Contraforte de Eira dos Montes";
+    HYJAL = "Hyjal";
+    IRONFORGE = "Altaforja";
+    LAPIDISISLE = "Ilha Lapidis";
+    LOCHMODAN = "Loch Modan";
+    MOONGLADE = "Clareira da Lua";
+    MULGORE = "Mulgore";
+    NORTHWIND = "Ventonorte";
+    ORGRIMMAR = "Orgrimmar";
+    REDRIDGEMOUNTAINS = "Montanhas Cristarrubra";
+    SCARLETENCLAVE = "Enclave Escarlate";
+    SEARINGGORGE = "Garganta Abrasadora";
+    SILITHUS = "Silithus";
+    SILVERPINEFOREST = "Floresta de Pinhaprata";
+    STONETALONMOUNTAINS = "Serra das Taratugas";
+    STORMWINDCITY = "Ventobravo";
+    STRANGLETHORNVALE = "Selva do Espinhaço";
+    SWAMPOFSORROWS = "Pântano das Mágoas";
+    TANARIS = "Tanaris";
+    TELABIM = "Tel'Abim";
+    TELDRASSIL = "Teldrassil";
+    THALASSIANHIGHLANDS = "Planalto Thalassiano";
+    THEBARRENS = "Sertões";
+    THEHINTERLANDS = "Terras Agrestes";
+    THOUSANDNEEDLES = "Mil Agulhas";
+    THUNDERBLUFF = "Penhasco do Trovão";
+    TIRISFALGLADES = "Clareiras de Tirisfal";
+    UNDERCITY = "Cidade Baixa";
+    UNGOROCRATER = "Cratera Un'Goro";
+    WESTERNPLAGUELANDS = "Terras Pestilentas Ocidentais";
+    WESTFALL = "Páramos do Poente";
+    WETLANDS = "Pantanal";
+    WINTERSPRING = "Hibérnia";
+end

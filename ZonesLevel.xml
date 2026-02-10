@@ -1,0 +1,11 @@
+<?xml-stylesheet type="text/xsl" href="/css/wowui.xsl"?>
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+    <Frame name="ZonesLevelFrame" parent="UIParent" hidden="true">
+        <Scripts>
+            <OnLoad>
+                ZonesLevel_OnLoad();
+            </OnLoad>
+        </Scripts>
+    </Frame>
+</Ui>

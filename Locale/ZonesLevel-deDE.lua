@@ -1,0 +1,63 @@
+-- /!\ TEMPORARY LLM GERMAN TRANSLATION /!\
+-- FEEL FREE TO EDIT AND MAKE A PR IF YOU NOTICE ANY ISSUES
+
+if GetLocale() == "deDE" then
+    ALAHTHALAS = "Alah'Thalas";
+    ALTERACMOUNTAINS = "Alteracgebirge";
+    ARATHIHIGHLANDS = "Arathihochland";
+    ASHENVALE = "Eschental";
+    AZSHARA = "Azshara";
+    BADLANDS = "Ödland";
+    BALOR = "Balor";
+    BLACKSTONEISLAND = "Schwarzfelsinsel";
+    BLASTEDLANDS = "Verwüstete Lande";
+    BURNINGSTEPPES = "Brennende Steppe";
+    DARKSHORE = "Dunkelküste";
+    DARNASSUS = "Darnassus";
+    DEADWINDPASS = "Gebirgspass der Totenwinde";
+    DESOLACE = "Desolace";
+    DUNMOROGH = "Dun Morogh";
+    DUROTAR = "Durotar";
+    DUSKWOOD = "Dämmerwald";
+    DUSTWALLOWMARSH = "Düstermarschen";
+    EASTERNPLAGUELANDS = "Östliche Pestländer";
+    ELWYNNFOREST = "Wald von Elwynn";
+    FELWOOD = "Teufelswald";
+    FERALAS = "Feralas";
+    GILLIJIMSISLE = "Gillijims Insel";
+    GILNEAS = "Gilneas";
+    GRIMREACHES = "Grimmweiten";
+    HILLSBRADFOOTHILLS = "Vorgebirge des Hügellands";
+    HYJAL = "Hyjal";
+    IRONFORGE = "Eisenschmiede";
+    LAPIDISISLE = "Lapidisinsel";
+    LOCHMODAN = "Loch Modan";
+    MOONGLADE = "Mondlichtung";
+    MULGORE = "Mulgore";
+    NORTHWIND = "Nordwind";
+    ORGRIMMAR = "Orgrimmar";
+    REDRIDGEMOUNTAINS = "Rotkammgebirge";
+    SCARLETENCLAVE = "Scharlachrote Enklave";
+    SEARINGGORGE = "Sengende Schlucht";
+    SILITHUS = "Silithus";
+    SILVERPINEFOREST = "Silberwald";
+    STONETALONMOUNTAINS = "Steinkrallengebirge";
+    STORMWINDCITY = "Sturmwind";
+    STRANGLETHORNVALE = "Schlingendorntal";
+    SWAMPOFSORROWS = "Sümpfe des Elends";
+    TANARIS = "Tanaris";
+    TELABIM = "Tel'Abim";
+    TELDRASSIL = "Teldrassil";
+    THALASSIANHIGHLANDS = "Thalassisches Hochland";
+    THEBARRENS = "Brachland";
+    THEHINTERLANDS = "Hinterland";
+    THOUSANDNEEDLES = "Tausend Nadeln";
+    THUNDERBLUFF = "Donnerfels";
+    TIRISFALGLADES = "Tirisfal";
+    UNDERCITY = "Unterstadt";
+    UNGOROCRATER = "Krater von Un'Goro";
+    WESTERNPLAGUELANDS = "Westliche Pestländer";
+    WESTFALL = "Westfall";
+    WETLANDS = "Sumpfland";
+    WINTERSPRING = "Winterquell";
+end

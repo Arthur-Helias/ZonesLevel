@@ -1,0 +1,63 @@
+-- /!\ TEMPORARY LLM RUSSIAN TRANSLATION /!\
+-- FEEL FREE TO EDIT AND MAKE A PR IF YOU NOTICE ANY ISSUES
+
+if GetLocale() == "ruRU" then
+    ALAHTHALAS = "Ала'Талас";
+    ALTERACMOUNTAINS = "Альтеракские горы";
+    ARATHIHIGHLANDS = "Нагорье Арати";
+    ASHENVALE = "Ясеневый лес";
+    AZSHARA = "Азшара";
+    BADLANDS = "Бесплодные земли";
+    BALOR = "Балор";
+    BLACKSTONEISLAND = "Остров Черного Камня";
+    BLASTEDLANDS = "Выжженные земли";
+    BURNINGSTEPPES = "Пылающие степи";
+    DARKSHORE = "Темные берега";
+    DARNASSUS = "Дарнас";
+    DEADWINDPASS = "Перевал Мертвого Ветра";
+    DESOLACE = "Пустоши";
+    DUNMOROGH = "Дун Морог";
+    DUROTAR = "Дуротар";
+    DUSKWOOD = "Сумеречный лес";
+    DUSTWALLOWMARSH = "Пылевые топи";
+    EASTERNPLAGUELANDS = "Восточные Чумные земли";
+    ELWYNNFOREST = "Элвиннский лес";
+    FELWOOD = "Оскверненный лес";
+    FERALAS = "Фералас";
+    GILLIJIMSISLE = "Остров Гиллиджима";
+    GILNEAS = "Гилнеас";
+    GRIMREACHES = "Мрачные Просторы";
+    HILLSBRADFOOTHILLS = "Предгорья Хилсбрада";
+    HYJAL = "Хиджал";
+    IRONFORGE = "Стальгорн";
+    LAPIDISISLE = "Остров Лапидис";
+    LOCHMODAN = "Лок Модан";
+    MOONGLADE = "Лунная поляна";
+    MULGORE = "Мулгор";
+    NORTHWIND = "Северный Ветер";
+    ORGRIMMAR = "Оргриммар";
+    REDRIDGEMOUNTAINS = "Красногорье";
+    SCARLETENCLAVE = "Алый оплот";
+    SEARINGGORGE = "Тлеющее ущелье";
+    SILITHUS = "Силитус";
+    SILVERPINEFOREST = "Серебряный бор";
+    STONETALONMOUNTAINS = "Когтистые горы";
+    STORMWINDCITY = "Штормград";
+    STRANGLETHORNVALE = "Тернистая долина";
+    SWAMPOFSORROWS = "Болото Печали";
+    TANARIS = "Танарис";
+    TELABIM = "Тел'Абим";
+    TELDRASSIL = "Тельдрассил";
+    THALASSIANHIGHLANDS = "Талассийское нагорье";
+    THEBARRENS = "Степи";
+    THEHINTERLANDS = "Внутренние земли";
+    THOUSANDNEEDLES = "Тысяча Игл";
+    THUNDERBLUFF = "Громовой Утес";
+    TIRISFALGLADES = "Тирисфальские леса";
+    UNDERCITY = "Подгород";
+    UNGOROCRATER = "Кратер Ун'Горо";
+    WESTERNPLAGUELANDS = "Западные Чумные земли";
+    WESTFALL = "Западный Край";
+    WETLANDS = "Болотина";
+    WINTERSPRING = "Зимние Ключи";
+end
