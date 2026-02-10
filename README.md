@@ -22,8 +22,8 @@ Inspired by [LevelRange-Turtle](https://github.com/Tenyar97/LevelRange-Turtle) c
 
 ## Compatibility
 This addon was designed and tested for TurtleWoW. It should be compatible with any 1.12 client that does not add or modify zones.<br>
-This addon should be compatible with any addon that does not also try to modify the zone's name at the top of your map. If any such incompatibility arrise, please feel free to report it through the `issue` tab on this repository.<br>
-Due to the lack of zone's IDs related API in 1.12 (as far as I'm aware), WoW clients using any other language than English might encounter issues. If any such issues arrise, please feel free to report it through the `issue` tab on this repository.
+This addon should be compatible with any addon that does not also try to modify the zone's name at the top of your map. If any such incompatibility arrise, please feel free to report it through the `Issues` tab on this repository.<br>
+Due to the lack of zone's IDs related API in 1.12 (as far as I'm aware), WoW clients using any other language than English might encounter issues. If any such issues arrise, please feel free to report it through the `Issues` tab on this repository.
 
 ## Credits
 [Walter Bennet](https://github.com/Arthur-Helias) - Addon creation<br>
