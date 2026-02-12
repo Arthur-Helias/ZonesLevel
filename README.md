@@ -4,8 +4,8 @@ A lightweight Turtle WoW addon that displays the mouse hovered zone's level unde
 Inspired by [LevelRange-Turtle](https://github.com/Tenyar97/LevelRange-Turtle) created by Tenyar97, I prefer the level range of the zone under its title rather than in a tooltip.
 
 ## Screenshots
-![vanilla](vanilla.png)
-![twow](twow.png)
+![vanilla](https://raw.githubusercontent.com/Arthur-Helias/ZonesLevel/master/.github/images/vanilla.png)
+![twow](https://raw.githubusercontent.com/Arthur-Helias/ZonesLevel/master/.github/images/twow.png)
 
 ## Installation
 ### Turtle WoW Launcher (**Recommended**)
