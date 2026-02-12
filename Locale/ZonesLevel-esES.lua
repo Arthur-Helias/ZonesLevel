@@ -5,7 +5,6 @@ if GetLocale() == "esES" then
     ALAHTHALAS = "Alah'Thalas";
     ALTERACMOUNTAINS = "Montañas de Alterac";
     ARATHIHIGHLANDS = "Tierras Altas de Arathi";
-    ASHENVALE = "Valle de Tuercespina"; -- Correction: Actually Ashenvale is "Vallefresno"
     ASHENVALE = "Vallefresno";
     AZSHARA = "Azshara";
     BADLANDS = "Tierras Inhóspitas";

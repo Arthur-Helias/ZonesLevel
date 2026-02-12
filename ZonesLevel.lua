@@ -79,21 +79,28 @@ COLORS = {
 
 local originalOnUpdate = function() end;
 
-local function getZoneColor(playerLevel, zoneMin, zoneMax)
-    local zoneMid = (zoneMin + zoneMax) / 2;
-    local diff = zoneMid - playerLevel;
+function LibLocPlus:GetZoneColor(playerLevel, zoneMin, zoneMax)
+    local averageLevel = floor((zoneMax - zoneMin) / 2) + zoneMin
+    local levelDiff = averageLevel - playerLevel
+    local color
 
-    if diff <= -10 then
-        return COLORS.Gray;
-    elseif diff <= -5 then
-        return COLORS.Green;
-    elseif diff <= 2 then
-        return COLORS.Yellow;
-    elseif diff <= 5 then
-        return COLORS.Orange;
+    if levelDiff > 4 then
+        color = COLORS.Red
+    elseif levelDiff > 2 then
+        color = COLORS.Orange
+    elseif levelDiff > -3 then
+        color = COLORS.Yellow
+    elseif levelDiff > -12 then
+        color = COLORS.Green
     else
-        return COLORS.Red;
+        color = COLORS.Gray
     end
+
+    if zoneMin == zoneMax then
+        color = COLORS.Orange
+    end
+
+    return color
 end
 
 local function updateZoneNameText(zoneName, zoomed)
