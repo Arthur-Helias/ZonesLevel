@@ -30,6 +30,7 @@ ZONESRANGE = {
     [ZL_LAPIDISISLE] = { 48, 53 },
     [ZL_LOCHMODAN] = { 10, 20 },
     [ZL_MOONGLADE] = { 1, 60 },
+    [ZL_MOONWHISPERCOAST] = { 50, 56 },
     [ZL_MULGORE] = { 1, 10 },
     [ZL_NORTHWIND] = { 28, 34 },
     [ZL_ORGRIMMAR] = { 1, 10 },
@@ -114,7 +115,6 @@ local function updateZoneNameText(zoneName, zoomed)
     end
 
     if zoomed then
-        -- Filter out capitals when zoomed. This code SUCKS lol!
         if CITIES[zoneName] then
             WorldMapFrameAreaDescription:SetText("")
             return

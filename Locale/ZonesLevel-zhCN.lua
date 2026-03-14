@@ -33,6 +33,7 @@ if GetLocale() == "zhCN" then
     ZL_LAPIDISISLE = "拉皮迪斯岛"
     ZL_LOCHMODAN = "洛克莫丹"
     ZL_MOONGLADE = "月光林地"
+    ZL_MOONWHISPERCOAST = "月语海岸"
     ZL_MULGORE = "莫高雷"
     ZL_NORTHWIND = "北风崖"
     ZL_ORGRIMMAR = "奥格瑞玛"

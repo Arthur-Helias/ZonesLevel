@@ -33,6 +33,7 @@ if GetLocale() == "esES" then
     ZL_LAPIDISISLE = "Isla Lapidis"
     ZL_LOCHMODAN = "Loch Modan"
     ZL_MOONGLADE = "Claro de la Luna"
+    ZL_MOONWHISPERCOAST = "Costa del Susurro de Luna"
     ZL_MULGORE = "Mulgore"
     ZL_NORTHWIND = "Viento del Norte"
     ZL_ORGRIMMAR = "Orgrimmar"

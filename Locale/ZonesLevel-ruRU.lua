@@ -33,6 +33,7 @@ if GetLocale() == "ruRU" then
     ZL_LAPIDISISLE = "Остров Лапидис"
     ZL_LOCHMODAN = "Лок Модан"
     ZL_MOONGLADE = "Лунная поляна"
+    ZL_MOONWHISPERCOAST = "Берег Лунного Шёпота"
     ZL_MULGORE = "Мулгор"
     ZL_NORTHWIND = "Северный Ветер"
     ZL_ORGRIMMAR = "Оргриммар"

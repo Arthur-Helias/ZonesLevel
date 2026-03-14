@@ -33,6 +33,7 @@ if GetLocale() == "frFR" then
     ZL_LAPIDISISLE = "Île de Lapidis"
     ZL_LOCHMODAN = "Loch Modan"
     ZL_MOONGLADE = "Reflet-de-Lune"
+    ZL_MOONWHISPERCOAST = "Côte du Murmure de Lune"
     ZL_MULGORE = "Mulgore"
     ZL_NORTHWIND = "Vent du Nord"
     ZL_ORGRIMMAR = "Orgrimmar"

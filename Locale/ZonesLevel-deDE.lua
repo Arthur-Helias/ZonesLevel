@@ -33,6 +33,7 @@ if GetLocale() == "deDE" then
     ZL_LAPIDISISLE = "Lapidisinsel"
     ZL_LOCHMODAN = "Loch Modan"
     ZL_MOONGLADE = "Mondlichtung"
+    ZL_MOONWHISPERCOAST = "Mondflüsterküste"
     ZL_MULGORE = "Mulgore"
     ZL_NORTHWIND = "Nordwind"
     ZL_ORGRIMMAR = "Orgrimmar"

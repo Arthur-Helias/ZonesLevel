@@ -33,6 +33,7 @@ if GetLocale() == "ptBR" then
     ZL_LAPIDISISLE = "Ilha Lapidis"
     ZL_LOCHMODAN = "Loch Modan"
     ZL_MOONGLADE = "Clareira da Lua"
+    ZL_MOONWHISPERCOAST = "Costa do Sussurro da Lua"
     ZL_MULGORE = "Mulgore"
     ZL_NORTHWIND = "Ventonorte"
     ZL_ORGRIMMAR = "Orgrimmar"
